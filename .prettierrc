@@ -10,7 +10,8 @@
   "plugins": [
     "@typescript-eslint",
     "react",
-    "prettier"
+    "prettier",
+    "prettier-plugin-tailwindcss"
   ],
   "rules": {
     "react/react-in-jsx-scope": "off"

@@ -7,7 +7,8 @@ const Index = () => {
         Hello, Next.js 13!
       </button>
 
-      <div className=''>dddd</div>
+      <div className=''>
+      </div>
     </div>
   );
 };

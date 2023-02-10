@@ -18,5 +18,7 @@
   "globals": {
     "React": "writable"
   },
+  "tabWidth": 2,
+  "printWidth": 80,
   "singleQuote": true
 }

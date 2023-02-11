@@ -15,7 +15,6 @@
     "plugin:jest-dom/recommended",
     "plugin:testing-library/react"
   ],
-  "parser": "@typescript-eslint/parser",
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true
@@ -47,6 +46,16 @@
     "no-undef": "off",
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
-    "react/jsx-props-no-spreading": "off"
+    "react/jsx-props-no-spreading": "off",
+    "react/jsx-filename-extension": [
+      1,
+      {
+        "extensions": [
+          ".tsx",
+          ".js",
+          ".jsx"
+        ]
+      }
+    ]
   }
 }

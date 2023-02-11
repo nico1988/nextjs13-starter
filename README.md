@@ -5,7 +5,7 @@ This is a NextJs 13, Typescript and Tailwind starter file project created by [Mu
 To use this starter, you can use create-next-app to do it by:
 
 ```bash
-npx create-next-app -e https://github.com/mukhammadxuja/nextjs-13-ts-tailwind-starter project-name
+git clone git@github.com:nico1988/nextjs13-starter.git
 ```
 
 First, run the development server:

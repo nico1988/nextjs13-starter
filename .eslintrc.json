@@ -6,6 +6,7 @@
     "jest": true,
     "node": true
   },
+  "parser": "@typescript-eslint/parser",
   "extends": [
     "airbnb",
     "plugin:react/recommended",
@@ -47,6 +48,7 @@
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
     "react/jsx-props-no-spreading": "off",
+    "react/jsx-boolean-value": "off",
     "react/jsx-filename-extension": [
       1,
       {

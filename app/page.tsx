@@ -7,7 +7,7 @@ function Index() {
         Hello, Next.js 13!
       </button>
 
-      <div className="text-6xl text-[#fb0067]">
+      <div className="text-6xl text-[#fb0067]   ">
         222
       </div>
     </div>

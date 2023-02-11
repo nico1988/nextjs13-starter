@@ -1,5 +1,9 @@
 {
   "name": "next13-starter",
+  "author": {
+    "name": "Sergio",
+    "email": "ccsunnydev@gmail.com"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {

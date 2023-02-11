@@ -25,3 +25,18 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 This starter file has a opinionated styling for heading with responsive size and Montserrat font imported from the google fonts.
 
 There is also Seo Component to customize page title and opengraph meta tags.
+
+- route grouping
+- custom 404 page
+- custom 500 page
+- custom error page
+- custom app component
+- custom document component
+- custom head component
+- custom layout component
+- custom seo component
+- custom tailwind config
+- custom tailwind css
+- dynamic route
+- dynamic route with slug
+- dynamic route with slug and query

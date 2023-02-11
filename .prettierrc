@@ -5,10 +5,11 @@
     "plugin:react/recommended",
     "plugin:prettier/recommended",
     "plugin:prettier/react",
+    "prettier/@typescript-eslint",
     "plugin:prettier/@typescript-eslint"
   ],
   "plugins": [
-    "@typescript-eslint",
+    "@typescript-eslint/eslint-plugin",
     "react",
     "prettier",
     "prettier-plugin-tailwindcss"

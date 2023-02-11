@@ -4,5 +4,13 @@
   "cSpell.words": [
     "tailwindcss"
   ],
-  "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+  "tslint.autoFixOnSave": true,
+  "typescript.check.tscVersion": false,
+  "vsicons.projectDetection.disableDetect": true,
+  "editor.formatOnSave": true, // Tell VSCode to format files on save
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
 }

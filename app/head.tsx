@@ -7,9 +7,9 @@ export default function Head() {
     <head>
       <meta charSet="utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <meta name="description" content="Next.js 13 starter template" />
+      <meta name="description" content="LAPLACE clone" />
       <link rel="icon" href="/favicon.ico" />
-      <title>Next.js 13 starter template</title>
+      <title>LAPLACE clone</title>
     </head>
   );
 }
